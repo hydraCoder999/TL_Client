@@ -5,6 +5,7 @@ const initialState = {
   stories: [],
   selectedStory: {},
   selectedStoryId: null,
+  selectedStory: {},
   storyViewSidebar: false,
   yourStories: [],
 };
